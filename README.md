@@ -4,7 +4,7 @@
  Business Analytics, MS
  Psychology, BS
 
- ### Work Experience
+### Work Experience
  Digital Analytics Intern @ Excellus BlueCrossBlueSheild
  - Big impact project 1
  - Big impact project 1
