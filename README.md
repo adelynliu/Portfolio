@@ -13,9 +13,9 @@
 
 
 ### Projects
-Capital Bike Share Usage Prediction
+- Capital Bike Share Usage Prediction
 
-NYC Air Taxi Prediction
+- NYC Air Taxi Prediction
 -
 
 
