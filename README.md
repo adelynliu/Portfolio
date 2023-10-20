@@ -14,6 +14,7 @@
 
 ### Projects
 - Capital Bike Share Usage Prediction
+   
 
 - NYC Air Taxi Prediction
 -
@@ -22,7 +23,7 @@
 
 
 ### Technical Skills
-- Data Analysis : Python(Numpy, Pandas), Excel(Vlookup, PivotTable, Macro, VBA), IBM Cognos, Google Analytics 4
+- Data Analysis : Python(Numpy, Pandas), Excel(Xlookup, Vlookup, PivotTable, Macro, VBA), IBM Cognos, Google Analytics 4
 - Data Visualization : PowerBI, Tableau, Python(Matplotlib,Seaborn), R(ggplot2,plotly), Excel(PivotChart)
 - Relational Database Management System : MySQL, PostgreSQL
 - Machine Learning : Python(scikit-learn, PiML)
