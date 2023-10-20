@@ -13,6 +13,8 @@
 
 
 ### Projects
+- Detailed EDA
+  
 - Capital Bike Share Usage Prediction
    
 
