@@ -4,6 +4,15 @@
 Hi, I am Adelyn! I am a recent graduate with a Master's degree in Business Analytics from George Washington University. I have over two years of hands-on experience in data analytics, reporting, and data visualization across diverse industries, including insurance, education, and e-commerce. I'm excited to leverage my expertise to drive innovation, create business value, and contribute to success through data analytics.       
 Check my projects and feel free to contact me!
 
+## Table of contents
+- [Education](#Education)
+- [Projects](#Projects)
+  + [US_Health_Insurance_EDA](#US_Health_Insurance_EDA)
+  + [Capital Bike Share Usage Prediction](#Capital Bike Share Usage Prediction)
+- [Technical Skills](#Technical Skills)
+- [Interpersonal Skills](#Interpersonal Skills)
+- [Contacts](#Contacts)
+  
 ### Education
 - Business Analytics, MS
 - Psychology, BS
