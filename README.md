@@ -19,9 +19,9 @@ Check my projects and feel free to contact me!
 
 ### Projects
 - ### US_Health_Insurance_EDA
-- 
+  **Description:**
   
-- Capital Bike Share Usage Prediction
+- ### Capital Bike Share Usage Prediction
    
 
 
