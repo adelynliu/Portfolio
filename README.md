@@ -18,7 +18,7 @@ Check my projects and feel free to contact me!
 - Psychology, BS
 
 ### Projects
-- ### US_Health_Insurance_EDA
+- ### US_Health_Insurance_EDA (https://github.com/adelynliu/Portfolio/blob/main/US_Health_Insurance_EDA.ipynb)
   **Description:**
   
 - ### Capital Bike Share Usage Prediction
