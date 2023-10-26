@@ -9,8 +9,9 @@ Check my projects and feel free to contact me!
 - [Projects](#Projects)
   + [US_Health_Insurance_EDA](#US_Health_Insurance_EDA)
   + [Capital_Bike_Share_Usage_Prediction](#Capital_Bike_Share_Usage_Prediction)
-- [Technical_Skills](#Technical_Skills)
-- [Interpersonal_Skills](#Interpersonal_Skills)
+- [Skills](#Skills)
+ + [Technical_Skills](#Technical_Skills)
+ + [Interpersonal_Skills](#Interpersonal_Skills)
 - [Contacts](#Contacts)
   
 ### Education
@@ -26,15 +27,15 @@ Check my projects and feel free to contact me!
    
 
 
-
-### Technical_Skills
+### Skills
+ ### Technical_Skills
 - Data Analysis : Python(Numpy, Pandas), Excel(Xlookup, Vlookup, PivotTable, Macro, VBA), IBM Cognos, Google Analytics 4
 - Data Visualization : PowerBI, Tableau, Python(Matplotlib,Seaborn), R(ggplot2,plotly), Excel(PivotChart)
 - Relational Database Management System : MySQL, PostgreSQL
 - Machine Learning : Python(scikit-learn, PiML toolbox)
 - Software : Microsoft Office, AWS, Google Colab, Jupyter Notebooks, Rstudio, IBM Cognos, MAMP, PowerBI, Tableau
 
-### Interpersonal_Skills
+ ### Interpersonal_Skills
 - Project Management : Time Management, Prioritization
 - Problem-Solving: Analytic skills, Research skills, Creativity
 - Communication : Actively Listening skills, Open-minded
