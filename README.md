@@ -1,5 +1,7 @@
-# Adelyn's Data Analyst Portfolio
+# Adelyn Liu - Data Analyst Portfolio
 
+### About
+- 
 ### Education
 - Business Analytics, MS
 - Psychology, BS
