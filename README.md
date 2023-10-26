@@ -14,11 +14,11 @@ Check my projects and feel free to contact me!
   + [Interpersonal_Skills](#Interpersonal_Skills)
 - [Contacts](#Contacts)
   
-### Education
+## Education
 - Business Analytics, MS
 - Psychology, BS
 
-### Projects
+## Projects
 - ### US_Health_Insurance_EDA
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/adelynliu/Portfolio/blob/main/US_Health_Insurance_EDA.ipynb)
   **Description:**
@@ -27,7 +27,7 @@ Check my projects and feel free to contact me!
    
 
 
-### Skills
+## Skills
  ### Technical_Skills
 - Data Analysis : Python(Numpy, Pandas), Excel(Xlookup, Vlookup, PivotTable, Macro, VBA), IBM Cognos, Google Analytics 4
 - Data Visualization : PowerBI, Tableau, Python(Matplotlib,Seaborn), R(ggplot2,plotly), Excel(PivotChart)
@@ -41,6 +41,6 @@ Check my projects and feel free to contact me!
 - Communication : Actively Listening skills, Open-minded
 - Work Ethic : Reliability, Honesty, Teamwork
 
-### Contacts
+## Contacts
 - LinkedIn: [@adelynliu](https://www.linkedin.com/in/adelyn-liu-data-analytics )
 - E-mail: adelynliu8487@gwu.edu
