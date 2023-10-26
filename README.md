@@ -15,8 +15,8 @@ Check out my projects and feel free to contact me!
 - [Contacts](#Contacts)
   
 ## Education
-- Business Analytics, MS
-- Psychology, BS
+- MS in Business Analytics, George Washington University
+- BS in Psychology, Kaohsiung Medical University
 
 ## Projects
 - ### US_Health_Insurance_EDA
