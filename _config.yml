@@ -1,7 +1,6 @@
 title: Adelyn Liu  
 #logo: /assets/img/headshot_circle.png
-description: MS in Business Analyst, 2-year experience as a data analyst in insurance, education, and E-commerce industries.
-#theme: jekyll-theme-minimal
-remote_theme: pages-themes/modernist@v0.2.0
+description: MS in Business Analyst, 2-year experience as a business analyst in insurance, education, and E-commerce industries.
+theme: jekyll-theme-minimal
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
