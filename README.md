@@ -18,7 +18,8 @@ Check my projects and feel free to contact me!
 - Psychology, BS
 
 ### Projects
-- ### US_Health_Insurance_EDA [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/adelynliu/Portfolio/blob/main/US_Health_Insurance_EDA.ipynb)
+- ### US_Health_Insurance_EDA
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/adelynliu/Portfolio/blob/main/US_Health_Insurance_EDA.ipynb)
   **Description:**
   
 - ### Capital Bike Share Usage Prediction
