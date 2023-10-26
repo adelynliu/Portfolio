@@ -9,7 +9,7 @@ Check my projects and feel free to contact me!
 - [Projects](#Projects)
   + [US_Health_Insurance_EDA](#US_Health_Insurance_EDA)
   + [Capital_Bike_Share_Usage_Prediction](#Capital_Bike_Share_Usage_Prediction)
-- [Technical Skills](#Technical _Skills)
+- [Technical Skills](#Technical_Skills)
 - [Interpersonal Skills](#Interpersonal_Skills)
 - [Contacts](#Contacts)
   
