@@ -25,7 +25,7 @@ Check out my projects and feel free to contact me!
   
 - ### Capital_Bike_Share_Usage_Prediction
 - ### Credit_Line_Increase_Model
--  *(https://github.com/adelynliu/Credit-line-Increase-project)*
+-  Full Info:*(https://github.com/adelynliu/Credit-line-Increase-project)*
    
 
 
