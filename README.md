@@ -13,7 +13,7 @@
 
 
 ### Projects
-- Detailed EDA
+- US_Health_Insurance_EDA
   
 - Capital Bike Share Usage Prediction
    
