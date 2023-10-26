@@ -19,8 +19,8 @@ Check my projects and feel free to contact me!
 
 ### Projects
 - ### US_Health_Insurance_EDA
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/adelynliu/Portfolio/blob/main/US_Health_Insurance_EDA.ipynb)
-  **Description:**
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/adelynliu/Portfolio/blob/main/US_Health_Insurance_EDA.ipynb)
+  *Description:*
   
 - ### Capital Bike Share Usage Prediction
    
