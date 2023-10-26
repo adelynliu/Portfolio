@@ -10,8 +10,8 @@ Check my projects and feel free to contact me!
   + [US_Health_Insurance_EDA](#US_Health_Insurance_EDA)
   + [Capital_Bike_Share_Usage_Prediction](#Capital_Bike_Share_Usage_Prediction)
 - [Skills](#Skills)
- + [Technical_Skills](#Technical_Skills)
- + [Interpersonal_Skills](#Interpersonal_Skills)
+  + [Technical_Skills](#Technical_Skills)
+  + [Interpersonal_Skills](#Interpersonal_Skills)
 - [Contacts](#Contacts)
   
 ### Education
