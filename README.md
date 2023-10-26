@@ -20,11 +20,12 @@ Check out my projects and feel free to contact me!
 
 ## Projects
 - ### US_Health_Insurance_EDA
- - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/adelynliu/Portfolio/blob/main/US_Health_Insurance_EDA.ipynb)
+  - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/adelynliu/Portfolio/blob/main/US_Health_Insurance_EDA.ipynb)
   **Description:**
   
 - ### Capital_Bike_Share_Usage_Prediction
   - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/adelynliu/Portfolio/blob/main/CapitalBikeshare.ipynb)
+     **Description:**
 - ### Credit_Line_Increase_Model
 -  Full Info:(https://github.com/adelynliu/Credit-line-Increase-project)
    
