@@ -18,7 +18,7 @@ Check my projects and feel free to contact me!
 - Psychology, BS
 
 ### Projects
-- US_Health_Insurance_EDA
+#### US_Health_Insurance_EDA
   
 - Capital Bike Share Usage Prediction
    
