@@ -8,9 +8,9 @@ Check my projects and feel free to contact me!
 - [Education](#Education)
 - [Projects](#Projects)
   + [US_Health_Insurance_EDA](#US_Health_Insurance_EDA)
-  + [Capital Bike Share Usage Prediction](#CapitalBikeShareUsagePrediction)
-- [Technical Skills](#TechnicalSkills)
-- [Interpersonal Skills](#InterpersonalSkills)
+  + [Capital_Bike_Share_Usage_Prediction](#Capital_Bike_Share_Usage_Prediction)
+- [Technical Skills](#Technical _Skills)
+- [Interpersonal Skills](#Interpersonal_Skills)
 - [Contacts](#Contacts)
   
 ### Education
@@ -40,6 +40,6 @@ Check my projects and feel free to contact me!
 - Communication : Actively Listening skills, Open-minded
 - Work Ethic : Reliability, Honesty, Teamwork
 
-  ## Contacts
+  ### Contacts
 - LinkedIn: [@adelynliu](https://www.linkedin.com/in/adelyn-liu-data-analytics )
 - E-mail: adelynliu8487@gwu.edu
