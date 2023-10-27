@@ -21,7 +21,8 @@ Check out my projects and feel free to contact me!
 ## Projects
 - ### US_Health_Insurance_EDA
   - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/adelynliu/Portfolio/blob/main/US_Health_Insurance_EDA.ipynb)
-  - 
+  - ![Test][https://img.shields.io/badge/:badgeContent]
+
   **Description:**
   
 - ### Capital_Bike_Share_Usage_Prediction
