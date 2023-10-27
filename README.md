@@ -10,7 +10,7 @@ Check out my projects and feel free to contact me!
 - [Projects](#Projects)
   + [US_Health_Insurance_EDA](#US_Health_Insurance_Exploratory_Data_Analysis)
   + [Capital_Bike_Share_Usage_Prediction](#Capital_Bike_Share_Usage_Prediction)
-  + [USA Real Estate PowerbI Dashboard](#USA_Real_Estate_PowerbI_Dashboard) 
+  + [USA_Real_Estate_PowerbI_Dashboard](#USA_Real_Estate_PowerbI_Dashboard) 
 - [Skills](#Skills)
   + [Technical_Skills](#Technical_Skills)
   + [Interpersonal_Skills](#Interpersonal_Skills)
