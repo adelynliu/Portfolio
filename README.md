@@ -31,7 +31,7 @@ Check out my projects and feel free to contact me!
     By predicting the number of pickups and dropoffs of 2 specific stations, we will inform daily bike rebalancing to ensure bike and dock availability in these 2 stations and provide recommendations. Training 5 different machine learning models, namely linear regression, KNN, ridge regression, elastic net, and LASSO, to determine the best model for our prediction. 
 - ### Credit_Line_Increase_Model
   -  **Full Info**:(https://github.com/adelynliu/Credit-line-Increase-project)
-- ### USA Real Estate PowerbI Dashboard
+- ### USA_Real_Estate_PowerbI_Dashboard
    - **Description:**
 
 
