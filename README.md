@@ -20,9 +20,9 @@ Check out my projects and feel free to contact me!
 - BS in Psychology, Kaohsiung Medical University
 
 ## Projects
-- ### US_Health_Insurance_EDA
+- ### US_Health_Insurance_Exploratory Data Analysis
   - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/adelynliu/Portfolio/blob/main/US_Health_Insurance_EDA.ipynb)
-  - **Description:** In this project, I delved into a dataset about health insurance in the United States. I began by uploading the required API key for data access. My journey involved loading and checking the data, finding key numbers for numerical columns, removing outliers, tallying the different categories in my categorical columns, and tidying up the data. I then used visualizations to get a clear picture of trends. Not forgetting hypothesis testing, where I focused on "Charges." This thorough analysis unveiled insights into the dataset and potential influencers of health insurance costs in the USA.
+  - **Description:** In this project, I utilized a dataset about health insurance in the US. My journey involved uploading the required API key for data access, Data Cleaning, Summary Statistics, Outlier Detection and Handling, and Correlation Analysis. Then I conducted Data visualization to get a clear picture of trends and applied Hypothesis Testing, where I focused on "Charges" to see if each variable was statistically significant. This thorough analysis unveiled insights into the dataset and potential influencers of health insurance costs in the US.
   
 - ### Capital_Bike_Share_Usage_Prediction
   - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/adelynliu/Portfolio/blob/main/CapitalBikeshare.ipynb)
