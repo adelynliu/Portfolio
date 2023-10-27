@@ -8,7 +8,7 @@ Check out my projects and feel free to contact me!
 ## Table of contents
 - [Education](#Education)
 - [Projects](#Projects)
-  + [US_Health_Insurance_EDA](#US_Health_Insurance_EDA)
+  + [US_Health_Insurance_Exploratory Data Analysis](#US_Health_Insurance_Exploratory Data Analysis)
   + [Capital_Bike_Share_Usage_Prediction](#Capital_Bike_Share_Usage_Prediction)
 - [Skills](#Skills)
   + [Technical_Skills](#Technical_Skills)
