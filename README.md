@@ -33,7 +33,8 @@ Check out my projects and feel free to contact me!
   -  **Full Info**:(https://github.com/adelynliu/Credit-line-Increase-project)
 - ### USA_Real_Estate_PowerbI_Dashboard
    - **Description:**
-   - ![Dashboard][https://github.com/adelynliu/Portfolio/blob/main/US%20Real%20Estate%20Dashboard.png] 
+   ![Dashboard](https://github.com/adelynliu/Portfolio/raw/main/US%20Real%20Estate%20Dashboard.png)
+
 
 
 ## Skills
