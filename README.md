@@ -42,8 +42,8 @@ Check out my projects and feel free to contact me!
  ### Technical_Skills
 - Data Analysis : Python(Numpy, Pandas), Excel(Xlookup, Vlookup, PivotTable, Macro, VBA), IBM Cognos, Google Analytics 4
 - Data Visualization : PowerBI, Tableau, Python(Matplotlib,Seaborn), R(ggplot2,plotly), Excel(PivotChart)
-- Relational Database Management System : MySQL, PostgreSQL
-- Machine Learning : Python(scikit-learn, PiML toolbox)
+- Relational Database Management: MySQL, PostgreSQL
+- Machine Learning : Python(scikit-learn, XGBoost, PiML toolbox)
 - Software : Microsoft Office, AWS, Google Colab, Jupyter Notebooks, Rstudio, IBM Cognos, MAMP, PowerBI, Tableau
 
  ### Interpersonal_Skills
