@@ -32,7 +32,7 @@ Check out my projects and feel free to contact me!
 - ### Credit_Line_Increase_Model
   -  **Full Info**:(https://github.com/adelynliu/Credit-line-Increase-project)
 - ### USA_Real_Estate_PowerbI_Dashboard (PowerBI)
-   - **Description:** Harnessing the potential of an open-source dataset containing U.S. Real Estate information to meticulously engineer an insightful Power BI dashboard. This comprehensive dashboard delves into a century's worth of real estate data, spanning the years from 1901 to 2023, encompassing 12 states and 1781 cities. It offers invaluable data insights, including pivotal metrics such as median property prices, average house sizes, bathroom and bedroom averages, and the total number of units sold. This designed dashboard is a sophisticated professional resource, enabling a deep comprehension of historical real estate trends.
+   - **Description:** Harnessing an open-source dataset containing U.S. Real Estate information to meticulously engineer an insightful Power BI dashboard. This comprehensive dashboard delves into a century's worth of real estate data, spanning the years from 1901 to 2023, encompassing 12 states and 1781 cities. It offers invaluable data insights, including pivotal metrics such as median property prices, average house sizes, bathroom and bedroom averages, and the total number of units sold. This designed dashboard is a sophisticated professional resource, enabling a deep comprehension of historical real estate trends.
     - **Screenshot:**
    ![Dashboard](https://github.com/adelynliu/Portfolio/raw/main/US%20Real%20Estate%20Dashboard.png)
 
