@@ -27,7 +27,7 @@ Check out my projects and feel free to contact me!
   - **Description:** In this project, I utilized a dataset about health insurance in the US. My journey involved uploading the required API key for data access, Data Cleaning, Summary Statistics, Outlier Detection and Handling, and Correlation Analysis. Then I conducted Data visualization to get a clear picture of trends and applied Hypothesis Testing, where I focused on "Charges" to see if each variable was statistically significant. This thorough analysis unveiled insights into the dataset and potential influencers of health insurance costs in the US.
   
 - ### Capital_Bike_Share_Usage_Prediction
-  - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/adelynliu/Portfolio/blob/main/CapitalBikeshare.ipynb)
+  - Full Code: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/adelynliu/Portfolio/blob/main/CapitalBikeshare.ipynb)
   - **Description:** Using the open-sourced dataset of Capital Bikeshare trip history data and DC weather data.
     By predicting the number of pickups and dropoffs of 2 specific stations, we will inform daily bike rebalancing to ensure bike and dock availability in these 2 stations and provide recommendations. Training 5 different machine learning models, namely linear regression, KNN, ridge regression, elastic net, and LASSO, to determine the best model for our prediction. 
 - ### Credit_Line_Increase_Model
