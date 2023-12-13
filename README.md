@@ -34,11 +34,13 @@ Check out my projects and feel free to contact me!
     
 - ### Credit_Line_Increase_Model
   -  **Full Info**:(https://github.com/adelynliu/Credit-line-Increase-project)
-  -  
+
+    
 - ### Wine_Quality_Prediction_Model
    - Full Code: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/adelynliu/Portfolio/blob/main/Wine_Quality.ipynb)
    -  **Description:** This is a regression-based machine learning project utilizing the Wine Quality dataset from the UC Irvine Machine Learning Repository. With approximately 7000 rows and 11 physicochemical features, the dataset is centered on predicting the quality of Portuguese "Vinho Verde" wine, where sensory quality serves as the output variable. Classes are ordered but imbalanced, making it suitable for regression tasks. The project exclusively focuses on building a regression model, employing the Explainable Boosting Machine (EBM) through PiML and Interpret libraries. The primary objective is to attain a highly interpretable model, shedding light on the influential factors that contribute to wine quality predictions.
-   -  
+
+     
 - ### USA_Real_Estate_PowerbI_Dashboard (PowerBI)
    - **Description:** Harnessing an open-source dataset containing U.S. Real Estate information to meticulously engineer an insightful Power BI dashboard. This comprehensive dashboard delves into a century's worth of real estate data, spanning the years from 1901 to 2023, encompassing 12 states and 1781 cities. It offers invaluable data insights, including pivotal metrics such as median property prices, average house sizes, bathroom and bedroom averages, and the total number of units sold. This designed dashboard is a sophisticated professional resource, enabling a deep comprehension of historical real estate trends.
     - **Screenshot:**
