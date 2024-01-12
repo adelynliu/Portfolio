@@ -28,10 +28,12 @@ Check out my projects and feel free to contact me!
 - ### Online Retail and Inventory Management System
   - **Full Code**:(https://github.com/adelynliu/Portfolio/blob/main/Online%20Retail%20and%20Inventory%20Management%20.sql)
   - **Description:**
+  - **ERD:**
+  -  ![ERD](https://github.com/adelynliu/Portfolio/blob/main/Online%20Retail%20Mgmt%20System%20ERD.png)
   
 - ### USA_Real_Estate_PowerbI_Dashboard (PowerBI)
    - **Description:** Harnessing an open-source dataset containing U.S. Real Estate information to meticulously engineer an insightful Power BI dashboard. This comprehensive dashboard delves into a century's worth of real estate data, spanning the years from 1901 to 2023, encompassing 12 states and 1781 cities. It offers invaluable data insights, including pivotal metrics such as median property prices, average house sizes, bathroom and bedroom averages, and the total number of units sold. This designed dashboard is a sophisticated professional resource, enabling a deep comprehension of historical real estate trends.
-    - **Screenshot:**
+    - **Screenshot of Dashboard:**
    ![Dashboard](https://github.com/adelynliu/Portfolio/raw/main/US%20Real%20Estate%20Dashboard.png)
 
 - ### US_Health_Insurance_Exploratory_Data_Analysis
