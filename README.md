@@ -8,7 +8,7 @@ Check out my projects and feel free to contact me!
 ## Table of contents
 - [Education](#Education)
 - [Projects](#Projects)
-  + [Online_Retail_and_Inventory_Management_System ](#Inventory_Management)
+  + [Online_Retail_and_Inventory_Management_System](#Online_Retail_and_Inventory_Management)
   + [US_Health_Insurance_EDA](#US_Health_Insurance_Exploratory_Data_Analysis)
   + [Capital_Bike_Share_Usage_Prediction](#Capital_Bike_Share_Usage_Prediction)
   + [Wine Quality Prediction_Model](#Wine_Quality_Prediction_Model)
