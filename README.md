@@ -25,6 +25,7 @@ Check out my projects and feel free to contact me!
 
 ## Projects
 - ### Online Retail and Inventory Management System
+  - **Full Code**:(https://github.com/adelynliu/Portfolio/blob/main/Online%20Retail%20and%20Inventory%20Management%20.sql)
   - **Description:** 
 - ### US_Health_Insurance_Exploratory_Data_Analysis
   - **Full Code**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/adelynliu/Portfolio/blob/main/US_Health_Insurance_EDA.ipynb)
