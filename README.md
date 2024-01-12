@@ -8,7 +8,7 @@ Check out my projects and feel free to contact me!
 ## Table of contents
 - [Education](#Education)
 - [Projects](#Projects)
-  + [Online_Retail_and_Inventory_Management_System](#Online_Retail_and_Inventory_Management)
+  + [Online_Retail_and_Inventory_Management_System](#Online_Retail_and_Inventory_Mgmt)
   + [USA_Real_Estate_PowerbI_Dashboard](#USA_Real_Estate_PowerbI_Dashboard) 
   + [US_Health_Insurance_EDA](#US_Health_Insurance_Exploratory_Data_Analysis)
   + [Capital_Bike_Share_Usage_Prediction](#Capital_Bike_Share_Usage_Prediction)
@@ -25,13 +25,13 @@ Check out my projects and feel free to contact me!
 - BS in Psychology, Kaohsiung Medical University
 
 ## Projects
-- ### Online Retail and Inventory Management System
-  - **Full Code**:(https://github.com/adelynliu/Portfolio/blob/main/Online%20Retail%20and%20Inventory%20Management%20.sql)
+- ### Online_Retail_and_Inventory_Management_System
+  - **Full Code**: [Online Retail and Inventory Management System SQL](https://github.com/adelynliu/Portfolio/blob/main/Online%20Retail%20and%20Inventory%20Management%20.sql)
   - **Description:** Developed an Online Retail and Inventory Management System using MySQL. Created an Entity-Relationship Diagram (ERD), designed the database schema, and inserted sample data. Formulated SQL queries to answer business questions, such as retrieving total product quantities in each warehouse or calculating sales revenue for specific sellers. The project provides a comprehensive solution for managing customers, sellers, products, orders, returns, and more, facilitating data-driven insights for effective business decisions.
   - **ERD:**
   -  ![ERD](https://github.com/adelynliu/Portfolio/blob/main/Online%20Retail%20Mgmt%20System%20ERD.png)
   
-- ### USA_Real_Estate_PowerbI_Dashboard (PowerBI)
+- ### USA_Real_Estate_PowerbI_Dashboard
    - **Description:** Harnessing an open-source dataset containing U.S. Real Estate information to meticulously engineer an insightful Power BI dashboard. This comprehensive dashboard delves into a century's worth of real estate data, spanning the years from 1901 to 2023, encompassing 12 states and 1781 cities. It offers invaluable data insights, including pivotal metrics such as median property prices, average house sizes, bathroom and bedroom averages, and the total number of units sold. This designed dashboard is a sophisticated professional resource, enabling a deep comprehension of historical real estate trends.
     - **Screenshot of Dashboard:**
    ![Dashboard](https://github.com/adelynliu/Portfolio/raw/main/US%20Real%20Estate%20Dashboard.png)
