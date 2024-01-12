@@ -8,6 +8,7 @@ Check out my projects and feel free to contact me!
 ## Table of contents
 - [Education](#Education)
 - [Projects](#Projects)
+  + [Online Retail and Inventory Management System ](#Inventory_Management)
   + [US_Health_Insurance_EDA](#US_Health_Insurance_Exploratory_Data_Analysis)
   + [Capital_Bike_Share_Usage_Prediction](#Capital_Bike_Share_Usage_Prediction)
   + [Wine Quality Prediction_Model](#Wine_Quality_Prediction_Model)
@@ -23,6 +24,8 @@ Check out my projects and feel free to contact me!
 - BS in Psychology, Kaohsiung Medical University
 
 ## Projects
+- ### Online Retail and Inventory Management System
+  - **Description:** 
 - ### US_Health_Insurance_Exploratory_Data_Analysis
   - **Full Code**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/adelynliu/Portfolio/blob/main/US_Health_Insurance_EDA.ipynb)
   - **Description:** In this project, I utilized a dataset about health insurance in the US. My journey involved uploading the required API key for data access, Data Cleaning, Summary Statistics, Outlier Detection and Handling, and Correlation Analysis. Then I conducted Data visualization to get a clear picture of trends and applied Hypothesis Testing, where I focused on "Charges" to see if each variable was statistically significant. This thorough analysis unveiled insights into the dataset and potential influencers of health insurance costs in the US.
