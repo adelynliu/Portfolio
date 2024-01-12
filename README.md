@@ -27,7 +27,7 @@ Check out my projects and feel free to contact me!
 ## Projects
 - ### Online Retail and Inventory Management System
   - **Full Code**:(https://github.com/adelynliu/Portfolio/blob/main/Online%20Retail%20and%20Inventory%20Management%20.sql)
-  - **Description:**
+  - **Description:** Developed an Online Retail and Inventory Management System using MySQL. Created an Entity-Relationship Diagram (ERD), designed the database schema, and inserted sample data. Formulated SQL queries to answer business questions, such as retrieving total product quantities in each warehouse or calculating sales revenue for specific sellers. The project provides a comprehensive solution for managing customers, sellers, products, orders, returns, and more, facilitating data-driven insights for effective business decisions.
   - **ERD:**
   -  ![ERD](https://github.com/adelynliu/Portfolio/blob/main/Online%20Retail%20Mgmt%20System%20ERD.png)
   
