@@ -75,4 +75,4 @@ Check out my projects and feel free to contact me!
 
 ## Contacts
 - LinkedIn: [@adelynliu](https://www.linkedin.com/in/adelyn-liu-data-analytics )
-- E-mail: adelynliu8487@gwu.edu
+- E-mail: adelynda8487@gmail.com
